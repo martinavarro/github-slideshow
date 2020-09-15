@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+NCT 2020 WORLD DOMINATION
 Use the left arrow to go back!
